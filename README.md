@@ -60,4 +60,4 @@ and run them in any python ide which generates the following server :
 ## Now run the [app.html]() file I provided to show the following UI will be shown:
 
 
-<img src='/image.jpg' alt='mhpwebsite' align='center' />
+<img src='/Website.png' alt='mhpwebsite' align='center' />
