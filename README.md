@@ -61,4 +61,4 @@ and run them in any python ide which generates the following server :
 ## Now run the [app.html](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/client/app.html) file I provided to show the following UI will be shown:
 
 
-<img src='/Website.png' alt='mhpwebsite' align='center' />
+<img src='Website.png' alt='mhpwebsite' align='center' />
