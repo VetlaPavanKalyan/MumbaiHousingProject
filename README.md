@@ -42,16 +42,16 @@
 
 
 ## Here in this Project I've used the following Tools for building my model and tried to host in Internet
-- Python
-- Numpy and Pandas for data cleaning
-- Matplotlib for data visualization
-- Sklearn for model building
-- Jupyter notebook, visual studio code and DataSpell as IDE
-- Python flask for http server
-- HTML/CSS/Javascript for UI
+- `Python`
+- `Numpy` and `Pandas` for data cleaning
+- `Matplotlib` for data visualization
+- `Sklearn` for model building
+- Jupyter notebook, `Web Storm` and `Data Spell` as IDE
+- Python `flask` for http server
+- `HTML/CSS/Javascript` for UI
 
 
-## Now in order to run the model first you need to download thee following files:
+## Now in order to run the model first you need to download the following files:
 - [utils.py](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/server/util.py)
 - [server.py](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/server/server.py)
 and run them in any python ide which generates the following server :
