@@ -43,7 +43,7 @@ def get_estimated_price(location, area, bhk):
     if loc_index >= 0:
         x[loc_index] = 1
 
-    return round(__model.predict([x])[0] / 1000000, 2)
+    return round(__model.predict([x])[0] / 100000, 2)
 
 
 if __name__ == '__main__':
