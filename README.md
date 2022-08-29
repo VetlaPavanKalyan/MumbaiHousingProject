@@ -38,7 +38,10 @@
 
 ***Here I used [`Decision Tree Regreesor`](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) to build the model***
 ## I built the model to predict any house price in mumbai using the following features: 
-`Area`,`No. of Bedrooms`,`Loaction`.
+`Area`,`No. of Bedrooms`,`Location`.
+
+
+***Here I'm going to use `Price` as the target feature***
 
 
 ## Here in this Project I've used the following Tools for building my model and tried to host in Internet
